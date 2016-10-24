@@ -5,3 +5,4 @@ Firstly, After opening the app, there is a button at bottom of menu to show skip
 //Rewarded Ad
 The script named as RewardedVideoAd.cs is used to display rewarded Video Ad after striking the whip 5 times. The script is Whip3d-iOS/Assets/Scripts folder.
 
+
